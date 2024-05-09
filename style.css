@@ -155,7 +155,7 @@ section .footer .row
     padding: 15px 25px;
     border-top: 1px solid rgba(0,0,0,0.05);
 }
-section .footer .row.row2
+/* section .footer .row.row2
 {
     display: flex;
     justify-content: space-between;
@@ -182,7 +182,7 @@ section .footer .row.row2 ul:nth-child(2) li a
     color: #5F6368;
     margin-right: 0px;
     margin-left: 25px;
-}
+} */
  #clock {
     padding: 1em;
             font-size: 1.5em;
