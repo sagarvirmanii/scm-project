@@ -82,23 +82,17 @@ If you'd like to contribute to the project, please follow these steps:
 1.  Fork the repository.
 2.  Create a new branch:
     
-    bash
-    
     Copy code
     
     git checkout -b feature-branch 
     
 3.  Make your changes and commit them:
     
-    bash
-    
     Copy code
     
     git commit -m "Description of your changes" 
     
 4.  Push to the branch:
-    
-    bash
     
     Copy code
     
