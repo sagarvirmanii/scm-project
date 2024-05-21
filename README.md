@@ -60,8 +60,6 @@ To run the project locally:
     
 2.  Open your web browser and go to:
     
-    arduino
-    
     Copy code
     
     http://localhost:3000 
